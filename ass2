@@ -1,0 +1,7 @@
+#write a  program to merge two tuples
+
+tuple1 = (1,23,4,454,5,5,6)
+
+tuple2 = ('car','hi','hello')
+
+print(tuple1+tuple2)
